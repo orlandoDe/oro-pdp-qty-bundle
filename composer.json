@@ -15,7 +15,7 @@
   },
   "autoload": {
     "psr-4": {
-      "Acme\\Bundle\\DemoBundle\\": ""
+      "Acme\\Bundle\\StockPdpBundle\\": "src/StockPdpBundle/"
     }
   },
   "extra": {
